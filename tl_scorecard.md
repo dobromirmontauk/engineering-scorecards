@@ -69,7 +69,7 @@ Make a copy of this [template](https://docs.google.com/spreadsheets/d/1PX61irzc6
     1. You are actively contributing code (>50% of your time) and a top producer.
     2. You enact the right amount of process to keep your engineers fully utilized, stakeholders informed, customers happy, risks identified, and commitments met. 
     3. You maximize the overall throughput of your engineering team over ~months. Engineering time is sacred to you and you don't waste it needlessly. Engineers know what work needs to be done and the relative importance of everything in the backlog.
-    4. You make visible progress on multi-quarter goals on a monthly basis. 
+    4. You make visible progress on multi-quarter goals on a monthly basis, monthly goals on a weekly basis, weekly goals on a daily basis... 
     5. You wear every hat that is missing in your team/organization. As last-line-of-defense, you sometimes need to be a FL, a PM, an EM, a QA engineer -- temporarily...
 5. **_Customer Obsession: you understand your internal customer's needs deeply_**
     1. You know who your customers are and you evangelize their problems, needs, and vocabulary within your team. All members understand the bigger picture and the role of your project/team within it.
