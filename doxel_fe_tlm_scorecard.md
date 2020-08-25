@@ -36,6 +36,7 @@ Looking for an Tech Lead/Manager who is, or _can rapidly become_...
     3. Talent farmer: track record of growing Sr+ engineers (bonus: Staff+ engineers). Has frameworks for identifying strengths/weaknesses, can reason about career growth intelligently, and has demonstrated wide range of tools used in growing talent.
     4. Talent magnet: track record of attracting Sr+ engineers (bonus: Staff+ engineers). Can quickly identify strength of engineer + fit on the team. Excellent top-grader and can accurately paint the team, their company, and the opportunity in ways that attract candidates without setting false expectations.
     5. Poor-performer weeder. Track record of identifying poor performers and removing them from the organization. Does this with grace and correct amount of doing-right by the employee while moving fast enough for the business.
+    6. Bonus points if has accomplished ^^^ with a primarily remote-first team. COVID and all...
 
     
 Core values (see Doxel Core Values map)
