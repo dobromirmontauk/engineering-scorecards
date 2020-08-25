@@ -13,13 +13,13 @@ Looking for an Tech Lead/Manager who is, or _can rapidly become_...
 (note: it's impossible for one person to be a 5 on all of these. That is not the expectation. The expectation is that this rubric helps interviewers get real data so they can score 1-5 on each item instead of being wishy-washy in feedback. That said, this is an _ordered list_ - #1 is more important than, #2, #3…) 
 
 1.  Front End Technical Expert
-    1. Has built multiple, complex Web FEs using recent Web frameworks. Comfortable in JS and UI best practices. 
-    2. Has deep experience in BE technologies to power FEs in Python/Ruby/Java/etc. Can speak intelligently about API approaches, database schemas, language choices...
-    3. Data-driven. Knows what kind of customer metrics to track and how to interpret them. Makes technical decisions based off of real data.
-    4. Production expertise. Knows how to manage systems in production so they have a high level of reliability and performance.
+    1. Has built multiple, complex Web Front Ends. Comfortable in JS and UI best practices. Can talk your ears off about the pros/cons of various frameworks. 
+    2. Has deep experience in BE technologies to power FEs in Python/Ruby/Java/etc. Can speak intelligently about API approaches, database schemas, language choices, FE vs BE responsibilities...
+    3. Data-driven. Knows what kind of customer metrics to track and how to interpret them. Makes technical decisions based off of real data. Loves building data visualizations. Bonus points for being an Edward Tufte fan. 
+    4. Production expertise. Knows how to manage systems in production so they have a high level of reliability and performance. Ideally intimately familiar with Docker and Kubernetes. 
     5. Quick learner. Can pick up new technologies, tools, etc and integrate them into their team and codebase.
 2. Extraordinary executor
-    1. Has shipped reasonably complex projects on time with small teams. Lives the agile mindset and iterates very quickly by interacting with Product, Design, and other stakeholders.
+    1. Has shipped reasonably complex projects on time with small teams. Lives the agile mindset and iterates very quickly by interacting with Product, Design, and other stakeholders. Has scars to prove it.
     2. Can identify various processes used to keep projects on track, identify risks and long-poles, and trade-off features/quality/deadlines. Has good nuance on over-process vs under-process. Does not micromanage, or under-manage.
     3. Generates healthy pressure from internal motivation. Bias toward action and clearly gets excited about impact. Absorbs and redistributes pressure from organization correctly (not too much, not too little). 
     4. Experience with startup velocity and tradeoffs. Demonstrated business-value vs. engineering-need trade-off evaluation. Has a knack for finding shortcuts that speed up the business without too much technical debt.
