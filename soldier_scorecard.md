@@ -16,14 +16,14 @@ Conversion notes:
 ----->
 
 
-<h1>Feature Lead Scorecard</h1>
+<h1>"Soldier" Technical Lead Scorecard (previously: Feature Lead)</h1>
 
 
-A Feature Lead is the Directly Responsible Individual for launching a feature/project on time.
+A "Soldier" Technical Lead is the Directly Responsible Individual for launching a feature/project on time.
 
-Feature Lead roles last for weeks-to-quarters, depending on the size/scope of the project.
+This role lasts for weeks-to-quarters, depending on the size/scope of the project.
 
-Feature Lead roles are designed to provide **tension** with the [Technical Lead](https://docs.google.com/document/d/17MAjqK2ybnzp4gUSZaVJhez0aH6o-B-tjFXtwlnJ_aU/edit#) roles. Feature Leads want to ship; Technical Leads want to build the Right Thing the Right Way. This tension should be healthy, inspiring debate and resulting in the best decision for the business (trading off short-term vs long-term needs).
+"Soldier" Feature Lead roles are designed to provide **tension** with the ["Gardener" Technical Lead](https://docs.google.com/document/d/17MAjqK2ybnzp4gUSZaVJhez0aH6o-B-tjFXtwlnJ_aU/edit#) roles. Soldiers want to ship; Gardeners want to build the Right Thing the Right Way. This tension should be healthy, inspiring debate and resulting in the best decision for the business (trading off short-term vs long-term needs).
 
 <h2>How to use this scorecard</h2>
 
