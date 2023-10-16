@@ -23,7 +23,7 @@ A "Warrior" Technical Lead is the Directly Responsible Individual for launching 
 
 This role lasts for weeks-to-quarters, depending on the size/scope of the project.
 
-"Warrior" Feature Lead roles are designed to provide **tension** with the ["Gardener" Technical Lead](https://docs.google.com/document/d/17MAjqK2ybnzp4gUSZaVJhez0aH6o-B-tjFXtwlnJ_aU/edit#) roles. Warrior want to ship; Gardeners want to build the Right Thing the Right Way. This tension should be healthy, inspiring debate and resulting in the best decision for the business (trading off short-term vs long-term needs).
+"Warrior" Feature Lead roles are designed to provide **tension** with the ["Gardener" Technical Lead](https://github.com/dobromirmontauk/engineering-scorecards/blob/master/gardener_scorecard.md) roles. Warrior want to ship; Gardeners want to build the Right Thing the Right Way. This tension should be healthy, inspiring debate and resulting in the best decision for the business (trading off short-term vs long-term needs).
 
 <h2>How to use this scorecard</h2>
 
