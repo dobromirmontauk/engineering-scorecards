@@ -21,7 +21,7 @@ Conversion notes:
 
 A "Gardener" Technical Lead is the Last Line of Defense for high-quality code and a reliable system. 
 
-"Gardener" roles are designed to provide tension with the ["Soldier"](https://docs.google.com/document/d/1052-6Lt8RXlyRttyIuTmhXAn0-iDLOwL669-IUqMC7U/edit#heading=h.bbuiwspo936x) roles. The most important aspect of a Gardener is that they _care deeply about good engineering and the ~1-year maintainability of their system._ Gardeners do not evaluate their success on a per-project level. Instead, they take _pride_ as the system evolves closer to their _ideal state_ (which they have a strong opinion on!) and they _cry inside_ when ugly complexity is introduced for "business reasons" (though they have the maturity to accept this may be temporarily necessary). They are meticulous gardeners.
+"Gardener" roles are designed to provide tension with the ["Warrior"](https://github.com/dobromirmontauk/engineering-scorecards/blob/master/warrior_scorecard.md) roles. The most important aspect of a Gardener is that they _care deeply about good engineering and the ~1-year maintainability of their system._ Gardeners do not evaluate their success on a per-project level. Instead, they take _pride_ as the system evolves closer to their _ideal state_ (which they have a strong opinion on!) and they _cry inside_ when ugly complexity is introduced for "business reasons" (though they have the maturity to accept this may be temporarily necessary). They are meticulous gardeners.
 
 Ergo, to be a good tech lead actually requires a particular kind of _personality_ - not every engineer should expect to become a "Gardener" Technical Lead as part of their career path.
 
