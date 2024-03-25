@@ -86,7 +86,7 @@ Make a copy of this [template](https://docs.google.com/spreadsheets/d/1PX61irzc6
 
 Some useful resources:
 
-[https://www.slideshare.net/thekua/tech-lead-skills-for-developers?next_slideshow=1](https://www.slideshare.net/thekua/tech-lead-skills-for-developers?next_slideshow=1)
+[[https://www.slideshare.net/ThoughtWorks/tech-leadskillsfordevelopers](https://www.slideshare.net/ThoughtWorks/tech-leadskillsfordevelopers)]
 
 _Credits: thanks to … for helping put together this scorecard, and to Wade Chambers whose VP of Engineering scorecard inspired me to make this Technical Lead one!_
 
