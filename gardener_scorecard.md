@@ -30,7 +30,7 @@ Gardener roles last for 1+ years as it requires a deep understanding of the curr
 <h2>How to use this scorecard</h2>
 
 
-To get the most out of this document you should _score yourself_ on each item, and give yourself a min/max/average on each dimension. Then, ask your manager to do the same - and maybe peers too. See if they grade you close to how you grade yourself. The goal is to help you go through the [learning cycle](http://www.cala.fsu.edu/modules/assessing_knowledge): ignorance → declarative → procedural → mastery. 
+To get the most out of this document you should _score yourself_ on each item, and give yourself a min/max/average on each dimension. Then, ask your manager to do the same - and maybe peers too. See if they grade you close to how you grade yourself. The goal is to help you go through the [learning cycle]([http://www.cala.fsu.edu/modules/assessing_knowledge](https://web.archive.org/web/20180817212310/http://www.cala.fsu.edu/modules/assessing_knowledge)): ignorance → declarative → procedural → mastery. 
 
 Make a copy of this [template](https://docs.google.com/spreadsheets/d/1PX61irzc6eCxgl2tzEzE6aKF92l7EoHcVac7Nb1Beko/edit#gid=0) and use the following rating scale:
 
