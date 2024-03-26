@@ -59,7 +59,7 @@ Make a copy of this [template](https://docs.google.com/spreadsheets/d/1PX61irzc6
     3. You have a 6+ month plan of how you want your system to evolve.
     4. You understand all the metrics that matter for the system that you are running and you regularly ask insightful questions and find surprising answers.
     5. You use your expertise proactively to help the organization improve designs and avoid expensive mistakes.
-3. **_Team: you build and run a high-performing team and continually improve it_**
+3. **_Team: you raise the bar in a high-performing team and continually improve it_**
     1. You realize it's not about you anymore. You put the team first in everything from giving recognition to the sexy projects to the promotion opportunities.
     2. You are an amazing teacher. You effortlessly tie back implementation details to technologies, concepts, and entire thought domains. From 1:1 coaching to blog posts, tech-talks, or conferences, you scale your teaching appropriately. 
     3. Your team runs itself. You are not a SPOF - multiple people can step in and take your role, at least temporarily. Every engineer has an equal voice and is comfortable using it. 
