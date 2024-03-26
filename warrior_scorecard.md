@@ -16,14 +16,14 @@ Conversion notes:
 ----->
 
 
-<h1>"Warrior" Technical Lead Scorecard (previously: Feature Lead)</h1>
+<h1>"Warrior" Software Engineer Scorecard (previously: Feature Lead)</h1>
 
 
-A "Warrior" Technical Lead is the Directly Responsible Individual for launching a feature/project on time.
+A "Warrior" Software Engineer (SWE) is the Directly Responsible Individual for launching a feature/project on time.
 
 This role lasts for weeks-to-quarters, depending on the size/scope of the project.
 
-"Warrior" Feature Lead roles are designed to provide **tension** with the ["Gardener" Technical Lead](https://github.com/dobromirmontauk/engineering-scorecards/blob/master/gardener_scorecard.md) roles. Warrior want to ship; Gardeners want to build the Right Thing the Right Way. This tension should be healthy, inspiring debate and resulting in the best decision for the business (trading off short-term vs long-term needs).
+"Warrior" SWE roles are designed to provide **tension** with the ["Gardener" Software Engineers](https://github.com/dobromirmontauk/engineering-scorecards/blob/master/gardener_scorecard.md) roles. Warriors want to ship; Gardeners want to build the Right Thing the Right Way. This tension should be healthy, inspiring debate and resulting in the best decision for the business (trading off short-term vs long-term needs).
 
 <h2>How to use this scorecard</h2>
 
