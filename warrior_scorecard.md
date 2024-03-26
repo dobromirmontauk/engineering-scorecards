@@ -16,7 +16,7 @@ Conversion notes:
 ----->
 
 
-<h1>"Warrior" Software Engineer Scorecard (previously: Feature Lead)</h1>
+<h1>"Warrior" Software Engineer Scorecard</h1>
 
 
 A "Warrior" Software Engineer (SWE) is the Directly Responsible Individual for launching a feature/project on time.
