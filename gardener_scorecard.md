@@ -88,7 +88,8 @@ Some useful resources:
 
 [[https://www.slideshare.net/ThoughtWorks/tech-leadskillsfordevelopers](https://www.slideshare.net/ThoughtWorks/tech-leadskillsfordevelopers)]
 
-_Credits: thanks to … for helping put together this scorecard, and to Wade Chambers whose VP of Engineering scorecard inspired me to make this Technical Lead one!_
+_Credits: thanks to …  
+* Dobromir Montauk for helping put together this scorecard, and to Wade Chambers whose VP of Engineering scorecard inspired him
 
 
 <!-- Docs to Markdown version 1.0β17 -->
